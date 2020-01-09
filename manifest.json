@@ -13,9 +13,9 @@
     "type":"image/png"
   },
   {
-    "src":"homescree.png",
+    "src":"homescreen.png",
     "sizes":"192x192",
-    "type":"image/x-icon"
+    "type":"image/png"
   }
   ],
   "start_url": "./index.html",
